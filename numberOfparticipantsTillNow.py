@@ -1,1 +1,1 @@
-numberOfParticipantsTillNow = 4
+numberOfParticipantsTillNow = 0
