@@ -23,4 +23,4 @@ def AppendParticipantResponseInMainExcelForOurJudgement(name, newRowData):
         return 0
     except Exception as e:
         return -1
-    return 0
+    
