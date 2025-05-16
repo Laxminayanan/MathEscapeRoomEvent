@@ -1,0 +1,2 @@
+def thankYouForYourParticipation(participantName1,participantName2):
+    print(f"\n\n\n\n\n                                                                             {participantName1} and {participantName2} Thank You For Your Patience Participation In The Math Escape Room!")
