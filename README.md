@@ -1,5 +1,5 @@
 # MathEscapeRoom
-- Math Escape Room is a hybrid digital-physical event where teams compete to solve Aptitude Questions within a time constraint. The Console Based Program manages the complete workflow from team registration to question delivery, response tracking, and result compilation. This system was successfully deployed during our college's Tech Fest, providing participants with an engaging and challenging experience.
+- Math Escape Room is a hybrid digital-physical event where teams compete to solve Aptitude Questions within a time constraint. This Console Based Program manages the complete workflow from team registration to question delivery, response tracking, and result compilation. This system was successfully deployed during our college's Tech Fest, providing participants with an engaging and challenging experience.
 
 
 # 🔄 Event Flow
