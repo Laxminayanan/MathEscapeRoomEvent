@@ -10,10 +10,10 @@
 - Time Constraint: Teams must return with the correct treasure number within 15 minutes or face elimination.
 - Digital Challenge: Qualifying teams proceed to a computer station where they:
 
-Enter their credentials
-Input the found treasure number
-Access a unique set of math problems tied to their treasure number
-Solve the problems while the system tracks time and responses
+Enter their credentials Like: 
+- Entering the founded treasure number
+- Access of a unique set of math problems tied to their treasure number
+- Solve the problems while the system tracks time and responses
 
 
 Results: Upon completion, the system:
